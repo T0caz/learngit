@@ -7,3 +7,6 @@ feature line 2
 main line 4
 feature line 3
 feature line 4
+feature line 5
+feature line 5
+feature line 6
